@@ -1,0 +1,16 @@
+{
+  "name": "dockerized-selenium-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sebastian Hallén",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^2.3.0",
+    "request-promise": "^2.0.1",
+    "selenium-webdriver": "^2.52.0"
+  }
+}
